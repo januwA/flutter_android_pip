@@ -1,3 +1,7 @@
+## 0.1.1
+
+* 修改readnme文件
+
 ## 0.1.0
 
-* 初始化功能
+* Set picture-in-picture mode on Android

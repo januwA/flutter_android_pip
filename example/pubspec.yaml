@@ -17,7 +17,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  flutter_android_pip:
+  flutter_ajanuw_android_pip:
     path: ../
 
 # For information on the generic Dart part of this file, see the

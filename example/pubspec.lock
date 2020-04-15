@@ -69,13 +69,13 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_android_pip:
+  flutter_ajanuw_android_pip:
     dependency: "direct dev"
     description:
       path: ".."
       relative: true
     source: path
-    version: "0.1.0"
+    version: "0.1.1"
   flutter_test:
     dependency: "direct dev"
     description: flutter

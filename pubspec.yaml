@@ -1,6 +1,6 @@
-name: flutter_android_pip
-description: A new flutter plugin project.
-version: 0.1.0
+name: flutter_ajanuw_android_pip
+description: Set picture-in-picture mode on Android
+version: 0.1.1
 homepage: https://github.com/januwA/flutter_android_pip
 
 environment:

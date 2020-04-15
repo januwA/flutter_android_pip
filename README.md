@@ -1,4 +1,4 @@
-# flutter_android_pip
+# flutter_ajanuw_android_pip
 
 Set picture-in-picture mode on Android
 
@@ -12,16 +12,13 @@ Set picture-in-picture mode on Android
 ## Install
 ```yaml
 dependencies:
-  flutter_android_pip:
-    git:
-      url: https://github.com/januwA/flutter_android_pip
-      ref: master
+  flutter_ajanuw_android_pip:
 ```
 
 
 ## use
 ```dart
-import 'package:flutter_android_pip/flutter_android_pip.dart';
+import 'package:flutter_ajanuw_android_pip/flutter_ajanuw_android_pip.dart';
 
 
  FlutterAndroidPip.pip();

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_android_pip/flutter_android_pip.dart';
+import 'package:flutter_ajanuw_android_pip/flutter_ajanuw_android_pip.dart';
 
 void main() => runApp(MyApp());
 
