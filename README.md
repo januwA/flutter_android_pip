@@ -3,11 +3,12 @@
 Set picture-in-picture mode on Android
 
 ```xml
-<application 
+<activity 
   android:resizeableActivity="true" 
   android:supportsPictureInPicture="true" 
   ...
 ```
+see: https://developer.android.com/guide/topics/ui/picture-in-picture
 
 ## Install
 ```yaml
